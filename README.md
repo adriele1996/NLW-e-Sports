@@ -5,13 +5,18 @@ Me chamo Adriele, estou participando do evento NLW e-Sports #9 da RocketSeat. De
 
 A ideia do projeto foi construir um agregador de links para um site de jogos!
 
-![preview]()
+![preview](./assets/.github/preview.png)
 
 ## Tecnologias utilizadas no projeto:
-HTML
-CSS
-GIT
+- HTML
+- CSS
+- GIT
 
 Espero que gostem.
 
-Link: https://adriele1996.github.io/NLW-e-Sports/
+[Acesse o projeto aqui](https://adriele1996.github.io/NLW-e-Sports/)
+
+## Contato
+Quer falar comigo?
+
+machado.adriele96@gmail.com
