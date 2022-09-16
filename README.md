@@ -17,6 +17,5 @@ Espero que gostem.
 [Acesse o projeto aqui](https://adriele1996.github.io/NLW-e-Sports/)
 
 ## Contato
-Quer falar comigo?
 
 machado.adriele96@gmail.com
