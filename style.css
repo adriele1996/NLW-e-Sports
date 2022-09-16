@@ -124,7 +124,7 @@ section ul {
     border: 1px solid #443E54;
 }
 
-/*ANIMAÇÃO NO CSS*/
+/*CSS ANIMATION*/
 
 header div {
     animation: fromTop .5s .5s backwards;
